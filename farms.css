@@ -1,1 +1,21 @@
 
+body { background: #0f0f0f; }
+
+#farms {
+	background: #005ce6;
+	color: #fff; 
+   padding-top: 96px;
+   padding-bottom: 72px;     
+   overflow: hidden; 
+}
+#farms a, #farms a:visited  { color: #0C3012; }
+#farms a:hover, #farms a:focus { color: #fff; }
+
+
+#farms h11 {
+   font: 15px/24px 'montserrat-bold', sans-serif;
+   color: #0C3012;
+   text-transform: uppercase;
+   letter-spacing: 3px;   
+   margin-bottom: 12px;
+}
