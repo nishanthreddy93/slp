@@ -172,7 +172,7 @@ body {
       Vertical rhythm with leading derived from 6
 --------------------------------------------------------------------- */
 
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h11 {
    color: #59B0DB;
 	font-family: 'montserrat-bold', sans-serif;
    font-weight: normal;
@@ -184,6 +184,8 @@ h3 { font-size: 22px; line-height: 30px; margin-bottom: 12px; }
 h4 { font-size: 20px; line-height: 30px; margin-bottom: 6px; }
 h5 { font-size: 18px; line-height: 30px; }
 h6 { font-size: 14px; line-height: 30px; }
+h11 { font-size: 38px; line-height: 42px; margin-bottom: 12px; letter-spacing: -1px; }
+
 .subheader { }
 
 p { margin: 0 0 30px 0; }
