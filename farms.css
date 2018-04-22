@@ -2,20 +2,21 @@
 body { background: #0f0f0f; }
 
 #farms {
-	background: #005ce6;
+	background: #0f0f0f;
 	color: #fff; 
    padding-top: 96px;
    padding-bottom: 72px;     
    overflow: hidden; 
 }
-#farms a, #farms a:visited  { color: #0C3012; }
-#farms a:hover, #farms a:focus { color: #fff; }
+#farms a, #farms a:visited  { color: #0f0f0f; }
+#farms a:hover, #farms a:focus { color: #0f0f0f; }
 
 
 #farms h11 {
    font: 15px/24px 'montserrat-bold', sans-serif;
-   color: #0C3012;
+   color: #0f0f0f;
    text-transform: uppercase;
    letter-spacing: 3px;   
    margin-bottom: 12px;
 }
+
