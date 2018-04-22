@@ -12,5 +12,6 @@ body { background: #0f0f0f; }
 	margin-bottom: 18px;	
 	padding: 0 10%;
 	text-shadow: 0px 1px 3px rgba(0, 0, 0, .5);	
+	margin: 126px auto 0;
 	text-align: center;
 }
