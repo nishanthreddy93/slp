@@ -1,7 +1,7 @@
 
 body { background: #0f0f0f; }
 
-#farms 
+#farms h11
 {
 margin: 126px auto 0;
 	text-align: center;
@@ -14,12 +14,13 @@ margin: 126px auto 0;
 }
 
 
-#farms h11 {
-   font: 50px 'montserrat-bold', sans-serif;
+#farms 
+{
+   font: 15px 'montserrat-bold', sans-serif;
    color: #87CEEB;
    text-transform: uppercase;
    letter-spacing: 3px;   
    margin-bottom: 12px;
-	position: absolute;
+
 }
 
